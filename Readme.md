@@ -66,14 +66,22 @@ Course Name: Software Engineering Sessional
       <td align="center">01.</td>
       <td align="center">Introduction to Markdown</td>
       <td align="center">
+<<<<<<< HEAD
         <a href="Lab%201/lab.md">Report-1</a>
+=======
+        <a href="Lab%20SE%201/lab.md">Report-1</a>
+>>>>>>> dc7ddafdb86c8623348932f901b595c17b188d9b
       </td>
     </tr>
     <tr>
       <td align="center">02.</td>
       <td align="center">Lab Report 2</td>
       <td align="center">
+<<<<<<< HEAD
         <a href="Lab%202/lab report-2.md">Report-2</a>
+=======
+        <a href="lab%20SE%202/Lab%20report-2.md">Report-2</a>
+>>>>>>> dc7ddafdb86c8623348932f901b595c17b188d9b
       </td>
     </tr>
   </tbody>

@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="images/download.png.png" alt="BAUET Logo" width="150">
+  <img src="images/download.png" alt="BAUET Logo" width="150">
 </p>
 
 <p align="center">

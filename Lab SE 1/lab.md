@@ -48,26 +48,9 @@
 | **Semester: 2nd** |  |
 
 ---
-
 | **Date of Experiment** | **Date of Submission** |
 |-------------------------|------------------------|
 |   23.07.25                      |     30.07.2026                   |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -80,9 +63,9 @@
 
 # Objectives
 
-1. **To** understand the basic concepts of Markdown language.
-2. **To** learn the basic syntax used for formatting Markdown documents.
-3. **To** create simple and well-structured documentation using Markdown.
+1. To understand the basic concepts of Markdown language.
+2. To learn the basic syntax used for formatting Markdown documents.
+3. To create simple and well-structured documentation using Markdown.
 
 Markdown is a lightweight markup language used to create formatted and well-structured documents using simple text-based syntax. It is easy to learn and does not require complex formatting tools.
 

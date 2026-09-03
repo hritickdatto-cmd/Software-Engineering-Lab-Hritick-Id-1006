@@ -66,14 +66,14 @@ Course Name: Software Engineering Sessional
       <td align="center">01.</td>
       <td align="center">Introduction to Markdown</td>
       <td align="center">
-        <a href="Lab%201/lab1.md">Report-1</a>
+        <a href="Lab%201/lab.md">Report-1</a>
       </td>
     </tr>
     <tr>
       <td align="center">02.</td>
       <td align="center">Lab Report 2</td>
       <td align="center">
-        <a href="Lab%202/lab2.md">Report-2</a>
+        <a href="Lab%202/lab report-2.md">Report-2</a>
       </td>
     </tr>
   </tbody>
